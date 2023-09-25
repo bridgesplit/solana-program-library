@@ -12,8 +12,8 @@ log = []
 sol-log = [ "log" ]
 
 [dependencies]
-solana-program = "1.16"
-bytemuck = "1.14"
+solana-program = "1.14.22"
+bytemuck = "1.13.0"
 thiserror = "1.0.48"
 
 [dev-dependencies]
